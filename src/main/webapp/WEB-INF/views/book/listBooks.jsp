@@ -36,10 +36,10 @@ th {
 			<thead>
 				<tr>
 					<th width="4%">S.N</th>
-					<th width="12%">Name</th>
+					<th width="12%">Title</th>
 					<th width="12%">Code</th>
 					<th width="12%">Price</th>
-					<th width="12%">Authors</th>
+					<th width="12%">Author</th>
 					<th width="12%">ISBN</th>
 					<th width="12%">Publisher</th>
 					<th width="12%">Published On</th>
